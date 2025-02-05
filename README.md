@@ -22,14 +22,3 @@
 
 ### Resultado do desafio realizado
 ![image](https://github.com/user-attachments/assets/69d80764-b0ef-4e3b-a05a-faf3c2d6ce0e)
-
-POSSIBLE USERNAME FIELD FOUND: skip_api_login=                               
-PARAM: signed_next=                                                          
-PARAM: trynum=1                                                              
-PARAM: timezone=                                                             
-PARAM: lgndim=                                                               
-PARAM: lgnrnd=120416_SKEl                                                    
-PARAM: lgnjs=n                                                               
-POSSIBLE USERNAME FIELD FOUND: email=testeDesafioSucesso@gmail.com           
-POSSIBLE PASSWORD FIELD FOUND: pass=321                                      
-POSSIBLE USERNAME FIELD FOUND: login=1                        
