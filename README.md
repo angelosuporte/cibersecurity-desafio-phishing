@@ -19,3 +19,15 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+### Resultado do desafio realizado
+POSSIBLE USERNAME FIELD FOUND: skip_api_login=                               
+PARAM: signed_next=                                                          
+PARAM: trynum=1                                                              
+PARAM: timezone=                                                             
+PARAM: lgndim=                                                               
+PARAM: lgnrnd=120416_SKEl                                                    
+PARAM: lgnjs=n                                                               
+POSSIBLE USERNAME FIELD FOUND: email=testeDesafioSucesso@gmail.com           
+POSSIBLE PASSWORD FIELD FOUND: pass=321                                      
+POSSIBLE USERNAME FIELD FOUND: login=1                        
